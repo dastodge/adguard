@@ -1,0 +1,2 @@
+! ==== Asus Router Settings ====
+@@||router.asus.com^
