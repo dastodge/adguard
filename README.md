@@ -1,2 +1,2 @@
-# adguard
-Adguard lists
+# AdGuard
+My AdGuard lists
