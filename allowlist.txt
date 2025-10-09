@@ -1,2 +1,5 @@
 # Asus Router Settings
 router.asus.com
+
+# Server
+titania.local
